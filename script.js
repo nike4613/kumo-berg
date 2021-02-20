@@ -130,7 +130,7 @@
           theoryTag.innerHTML = theory.description;
           theoryTag.prepend(theoryNameSpan);
 
-          const randSpan = getRandomInt(0, 10);
+          const randSpan = getRandomInt(0, 1/*0*/);
           theoryTag.style.gridRow = `${currentRow} / span ${randSpan < 9 ? 1 : 2}`;
 
           sectTag.appendChild(theoryTag);
