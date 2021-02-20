@@ -14,7 +14,7 @@ html {
 }
 
 body {
-  width: 100vw;
+  /*width: 100vw;*/
   /*min-*/height: 100vh;
   overflow-x: hidden;
   overflow-y: auto;
@@ -28,7 +28,7 @@ body {
 }
 
 .parallax {
-  width: 100vw;
+  width: 100%;
   min-height: 100vh;
   /*height: 100vh;*/
   position: relative;
@@ -51,7 +51,7 @@ body {
   bottom: 50%;
   z-index: -2;
   content: "";
-  transform: translateZ(-1px) scale(2);
+  transform: translateZ(-1px) translateX(-10px) scale(2);
 }
 
 /* The continuation gradient */
@@ -66,7 +66,51 @@ body {
   bottom: 50%;
   z-index: -1;
   content: "";
-  transform: translateZ(-1px) scale(2);
+  transform: translateZ(-1px) translateX(-10px) scale(2);
 }
 
 /* END PARALLAX STYLES */
+
+/* BEGIN SECTION STYLES */
+
+#iceberg > section {
+  border-top: solid 2px black;
+  border-bottom: solid 2px black;
+}
+
+#iceberg > section > .section-label {
+  float: right;
+}
+
+.theory-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+/* BEGIN DETAILS STYLES */
+
+details > summary {
+  display: inline-block;
+  border: solid 2px black;
+  border-radius: 4px;
+  margin: 4px;
+  padding: 2px 4px;
+  background-color: #303030;
+  font-family: monospace;
+}
+
+details > p {
+  position: absolute;
+  max-width: 60em;
+  border: solid 2px black;
+  border-radius: 4px;
+  margin: 4px;
+  margin-top: 0px;
+  padding: 2px 4px;
+  background-color: #303030;
+  transform: translateY(-6px);
+}
+
+/* END DETAILS STYLES */
+
+/* END SECTION STYLES */
