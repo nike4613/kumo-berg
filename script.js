@@ -35,9 +35,11 @@
     window.addEventListener('load', listener);
   });
 
-  const fetchReq = fetch("data.txt", {
+  const urlParams = new URLSearchParams(window.location.search);
+  const filename = urlParams.get('file') || "data.txt";
+
+  const fetchReq = fetch(filename, {
       method: "GET",
-      mode: "same-origin",
     })
     .then(response => response.text())
     .then(responseText => {

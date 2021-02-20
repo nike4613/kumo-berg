@@ -1,5 +1,9 @@
 [[<em>Big Fat Section Title</em>
 
+{{PLEASE READ THIS FIRST!
+This is the default theory listing. This is primarily used for testing, but there are others available.
+}}
+
 {{The First Theory
 This is the first theory. There is nothing odd about it, just going on what we have now.
 }}
