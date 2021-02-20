@@ -42,6 +42,7 @@ div#iceberg:before {
   perspective-origin: center top;
   transform-origin: center top;
   position: absolute;
+  min-height: 100%;
   top: 0px;
   left: 0px;
   right: 0px;
