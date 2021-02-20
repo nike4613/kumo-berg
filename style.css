@@ -1,4 +1,6 @@
 
+/* BEGIN PARALLAX STYLES */
+
 html, body {
   padding: 0px;
   margin: 0px;
@@ -25,7 +27,7 @@ body {
   background-color: black;
 }
 
-div.parallax {
+.parallax {
   width: 100vw;
   min-height: 100vh;
   /*height: 100vh;*/
@@ -34,7 +36,7 @@ div.parallax {
 }
 
 /* The actual image */
-div#iceberg:before {
+#iceberg:before {
   background-image: url("iceberg.webp");
   background-repeat: no-repeat;
   background-position: top;
@@ -53,7 +55,7 @@ div#iceberg:before {
 }
 
 /* The continuation gradient */
-div#iceberg:after {
+#iceberg:after {
   background: linear-gradient(to bottom, #01012a, black);
   position: absolute;
   perspective-origin: center top;
@@ -66,3 +68,5 @@ div#iceberg:after {
   content: "";
   transform: translateZ(-1px) scale(2);
 }
+
+/* END PARALLAX STYLES */
