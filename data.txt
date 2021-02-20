@@ -1,0 +1,19 @@
+[[<em>Big Fat Section Title</em>
+
+{{The First Theory
+This is the first theory. There is nothing odd about it, just going on what we have now.
+}}
+
+{{The Second Theory
+This is the second theory. There is nothing odd about it, just going on what we have now.<br/>
+<ul>
+<li>List item 1</li>
+<li>List item 2</li>
+</ul>
+<ol>
+<li>List item 1</li>
+<li>List item 2</li>
+</ol>
+}}
+
+]]
