@@ -3,22 +3,98 @@
   <head>
     <title>The Iceberg</title>
     <link rel="stylesheet" href="style.css" />
+    <script type="text/javascript" src="script.js"></script>
   </head>
   <body>
-    <main class="parallax" id="iceberg">
-      content
-      <section> <!-- A section of the iceberg -->
+    <template id="section-template">
+      <style>
+        /* BEGIN SECTION STYLES */
+
+        section {
+          border-top: solid 2px black;
+          border-bottom: solid 2px black;
+        }
+
+        section > .section-label {
+          float: right;
+          position: sticky
+        }
+
+        .theory-container {
+          display: grid;
+          grid-columns: repeat(auto, fit-content(300px));
+          grid-auto-rows: auto;
+          grid-auto-flow: column;
+        }
+
+        /* END SECTION STYLES */
+      </style>
+      <section>
         <div class="section-label">
-          section label
+          <slot name="label">UNLABELED SECTION. Provide a slot entry <code>slot="label"</code>.</slot>
         </div>
         <div class="theory-container">
-          theories
-          <details>
-            <summary>Theory Name</summary>
-            <p>Long theory description. This contains a lot of information, potentially forming an automatic line break at some point. Who really knows when though.</p>
-          </details>
+          <slot/>
         </div>
       </section>
+    </template>
+
+    <template id="theory-template">
+      <style>
+        /* BEGIN DETAILS STYLES */
+
+        details > summary {
+          display: inline-block;
+          border: solid 2px black;
+          border-radius: 4px;
+          margin: 4px;
+          padding: 2px 4px;
+          background-color: #303030;
+          font-family: monospace;
+        }
+
+        details > p {
+          position: absolute;
+          max-width: 50em;
+          max-height: 80em;
+          overflow: auto;
+          border: solid 2px black;
+          border-radius: 4px;
+          margin: 4px;
+          margin-top: 0px;
+          padding: 2px 4px;
+          background-color: #303030;
+          transform: translateY(-6px);
+        }
+
+        /* END DETAILS STYLES */
+      </style>
+      <details>
+        <summary><slot name="title">UNNAMED THEORY. Provide a slot entry <code>slot="title"</code>.</slot></summary>
+        <p><slot/></p>
+      </details>
+    </template>
+
+    <main class="parallax" id="iceberg">
+      <!--<ice-section>
+        <span slot="label">section label</span>
+        <ice-theory>
+          <span slot="title">test theory 1</span>
+          🙂
+        </ice-theory>
+        <ice-theory>
+          <span slot="title">test theory 2</span>
+          🙂🙂
+        </ice-theory>
+        <ice-theory>
+          <span slot="title">test theory 3</span>
+          🙂🙂🙂
+        </ice-theory>
+        <ice-theory>
+          <span slot="title">test theory 4</span>
+          🙂🙂🙂🙂
+        </ice-theory>
+      </ice-section>-->
     </main>
   </body>
 </html>
