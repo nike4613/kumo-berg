@@ -46,10 +46,17 @@
       // we are now parsing the data
       const fileParts = responseText.split(/\r?\n/);
       let sections = [];
+      let title = null;
       let currentSection = null;
       let currentTheory = null;
       for (let line of fileParts) {
+        line = line.trim();
         // process sections
+        if (title === null) {
+          if (line.startsWith(">")) {
+            title = line.slice(1);
+          }
+        }
         if (currentSection === null) {
           if (line.startsWith("[[")) {
             let title = line.slice(2);
@@ -92,7 +99,7 @@
           }
         }
       }
-      return sections;
+      return { title, sections };
     });
 
   function getRandomInt(min, max) {
@@ -102,10 +109,21 @@
   }
 
   Promise.all([documentLoad, fetchReq])
-    .then(([wrapper, sections]) => {
+    .then(([wrapper, iceberg]) => {
       // here, we've both requested the data and have loaded the page
       console.log(wrapper);
-      console.log(sections);
+      console.log(iceberg);
+
+      // we always create the title container
+      const titleContainer = document.createElement('div');
+      titleContainer.classList.add('title-container');
+      if (iceberg.title !== null) {
+        const titleText = document.createElement('h1');
+        titleText.innerHTML = iceberg.title
+        titleText.classList.add('title');
+        titleContainer.appendChild(titleText);
+      }
+      wrapper.appendChild(titleContainer);
 
       function addRandSpacer(section, minSize, maxSize, row) {
         const initialSpacer = document.createElement('div');
@@ -114,7 +132,7 @@
         section.appendChild(initialSpacer);
       }
 
-      for (let section of sections) {
+      for (let section of iceberg.sections) {
         const sectTag = document.createElement('ice-section');
         const sectNameSpan = document.createElement('div');
         sectNameSpan.classList.add('section-label');
