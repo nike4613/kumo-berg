@@ -1,6 +1,6 @@
 >The Truth about <em>Kumo Desu ga, Nani ka?</em>
 
-[[<img title="Shun">Shun</img>
+[[<img class="section-image" title="Shun" src="images/shun_square.png"/>
 
   {{So I'm a Spider, So What?
     Who even cares if I'm a spider?
@@ -20,12 +20,13 @@
   }}
 
   {{Kumoko's Patience
-    <em>I don't actually know what this one means lmao</em>
+    Julius (nearly) killed Kumoko, but because of Patience, she actually survived with just 1 HP.
+    The "Nightmare's Vestige" is Kumoko.
   }}
 
 ]]
 
-[[<img title="Katia">Katia</img>
+[[<img class="section-image" title="Katia" src="images/katia_square.png"/>
 
   {{Human side is a myth
     The human side doesn't actually exist. Its all in our heads.
@@ -43,7 +44,8 @@
   }}
 
   {{Wakaba RPG
-    <em>I don't remember which one this is.</em>
+    Wakaba made an RPG in memory of her recently deceased classmates, and the 'reincarnations' are just AIs programmed
+    to act like them.
   }}
 
   {{Kanata was gay
@@ -52,14 +54,14 @@
 
 ]]
 
-[[<img title="Oka">Oka</img>
+[[<img class="section-image" title="Oka" src="images/oka_square.png"/>
 
   {{Maou = Kumoko
     THE MAOU IS ACTUALLY KUMOKO IS ACTUALLY THE MAOU IS ACTUALLY THE DEMON LORD!!!!!!11!!1!1!!11
   }}
 
   {{Parallel Rulers
-    <em>I don't remember what this one is.</em>
+    You can claim opposing Ruler skills as long as you have different parallel wills that meet the criteria necessary.
   }}
 
   {{Class Project
@@ -70,29 +72,64 @@
     Humans evolve at level 100.
   }}
 
-  {{Saint Title
-    <em>I don't remember which one this is.</em>
+  {{Saint Title is OP
+    The 'Saint' title has a hidden world-ending function. Yuri was so heavily indoctrinated so that the Pope could one day control
+    that power.
   }}
 
   {{Classroom Games
-    This world is actually just a game that Shunsuke, Kanata, and his friends are playing. Hugo is really jealous that they're plaing without him,
-    and Wakaba is just off doing her own thing in a cave.
+    This world is actually just a game that Shunsuke, Kanata, and his friends are playing. Hugo is really jealous that they're plaing
+    without him, and Wakaba is just off doing her own thing in a cave.
   }}
 
   {{Spyders
-    <em>I don't remember which one this is.</em>
+    The human side of the story is shown through Shiro's spying spiders.
   }}
 
   {{Kumoko's Trainer
-    <em>I don't remember which one this is.</em>
+    Kumoko was trained by the Demon Lord to be an incredibly strong monster so she can wreak havoc amongst the humans.
   }}
 
   {{Hyrince's Fetish
-    <em>I don't remember which one this is.</em>
+    Since Hyrince is a clone of Gürie, he also has a thing for Goddesses.
   }}
 
   {{Dreaming Maiden
-    <em>I don't remember which one this is.</em>
+    The entire story is a dream of the great Yuri, Dreamer of Worlds, after she used her skill Dreaming Maiden.
   }}
 
 ]]
+
+[[<img class="section-image" title="Gürie" src="images/gyurie_square.png" style="transform:scale(0.9)" />
+
+  {{D = Death
+    <p>D is the god of Death; a Grim Reaper of sorts.</p>
+    <p>This actually has a lot of supporting evidence, what with Shiro's scythe, and some of the things that Meido says to D.</p>
+  }}
+
+  {{The System is a Godcradle
+    One of the goals of the System was to try to artifically create a God out of a creature that isn't usually able to become one.
+  }}
+
+  {{Potimas's Spy
+    Anna, Shun's elven maid, was originally a spy sent by Potimas, who eventually betrayed him.
+  }}
+
+  {{Kuro = Hugo
+    The 9th Demon Army General Kuro is actually just Hugo, bringing his revenge against the humans.
+  }}
+
+  {{Gürie's Daughter
+    🙂
+  }}
+
+  {{Gürie is a Classmate of the Reincarnations
+    Gürie was either one of those reincarnated that were not accounted for by Oka, or was another student in the same grade.
+  }}
+
+  {{Mother is The Nightmare
+    Kumoko's towering mother is the spider monster referred to as the "Nightmare of the Labyrinth".
+  }}
+
+]]
+
