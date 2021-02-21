@@ -152,6 +152,10 @@
   }}
 
   {{Potimatrix
+    The world is a simulation by the design of Potimas, who is himself inside a simulation of Wakaba's.
+  }}
+
+  {{Potimas.exe
     Potimas uploaded his consciousness into the System. He can use that to move into anyone that has a fragment of his soul
     due to his Ruler skill. I mean, the fucker <em>did</em> create robots out of child brains.
     <span style="font-size:50%">I guess he fancied himself a contemporary Armstrong.</span>
