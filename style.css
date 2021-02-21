@@ -96,6 +96,11 @@ div.section-label {
   height: 100%;
 }
 
+ice-theory ol, ice-theory ul {
+  padding-inline-start: 40px;
+  margin-right: 30px; /* approx what the user agent gives me */
+}
+
 ice-theory {
   grid-column: span 6;
 }
