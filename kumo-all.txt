@@ -100,7 +100,7 @@
 
 ]]
 
-[[<img class="section-image" title="Gürie" src="images/gyurie_square.png" style="transform:scale(0.9)" />
+[[<img class="section-image" title="Gürie" src="images/gyurie_square.png" style="transform:scale(0.9)"/>
 
   {{D = Death
     <p>D is the god of Death; a Grim Reaper of sorts.</p>
@@ -133,7 +133,7 @@
 
 ]]
 
-[[<img class="section-image" title="Potimas" src="images/potimas_square.png" />
+[[<img class="section-image" title="Potimas" src="images/potimas_square.png"/>
 
   {{Gürie's Kin
     Fei is actually a kin of Gürie, and so has a pretty solid chance of becoming a god.
@@ -219,6 +219,50 @@
 
   {{Dreamscape
     The world was, just as he had thought, entirely Hugo's dream.
+  }}
+
+]]
+
+[[<img class="section-image" title="Shiro" src="images/shiro_clean.png"/>
+
+  {{Yuri is Shiraori
+    After accidentally gaining Taboo knowledge, Yuri goes <em>even more</em> crazy, turning her eyes red and turning against
+    the church in an act of self-preservation. Eventually, she would ascend to godhood due only to how much this warped her soul.
+  }}
+
+  {{Mother's Kin Control
+    Kumoko never actually broke free from Kin Control, and she only thought she did. Her parallel wills were heavily affected
+    by Mother, and eventually the Vestiges annihilated the majority of the Dragons in the Labyrinth, which was exactly the
+    kind of thing that Mother would have wanted. Even after ascending, she was likely still affected by that, as shown by her
+    hatred of Gürie, a True Dragon.
+  }}
+
+  {{Fake Reincarnations
+    The 'reincarnations' are actually artifical souls created by Potimas as a way to experiment with the limits the System
+    put on him. He hacked into the System to help him create those souls, and wanted to use them as puppets to gain control
+    over the Church, but ended up not being able to maintain control over them.
+  }}
+
+  {{Spiders, the lot of them!
+    All of the reincarnators were originally spiders, and the attack that killed them only hit a spider mother and her young.
+  }}
+
+  {{Dimension Magic
+    Earth and the System are in different dimensions, and Shiraori and D are just able to easily jump between them.
+    This may be why the phone conversations with D had a lot of static.
+  }}
+
+  {{Hiiro Conundrum
+    D is <em>not</em> Wakaba Hiiro, but instead consumed a large part of her soul and turned the rest into a spider during the
+    reincarnation.
+  }}
+
+  {{D, the White Weaver
+    <p>D is Shiraori from the future, returning as a way to entertain herself. Shiraori is mysteriously attracted to D,
+    indicating that there may be a deep connection of that sort, along with D taking rather particular interest in Shiraori.</p>
+    <p>In addition, D's hatred of Dragons is very much like Shiraori's.</p>
+    <p>It would be very likely then, that Meido was future Sophia, and that Angels might be Potimas's remaining robots at some
+    point in the future. Even the True Dragons may be decendents of Gürie's 'fake' dragons.</p>
   }}
 
 ]]
