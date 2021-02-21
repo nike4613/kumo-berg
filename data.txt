@@ -1,23 +1,58 @@
-[[<em>Big Fat Section Title</em>
+>The Iceberg
 
-{{PLEASE READ THIS FIRST!
-This is the default theory listing. This is primarily used for testing, but there are others available.
-}}
+[[
 
-{{The First Theory
-This is the first theory. There is nothing odd about it, just going on what we have now.
-}}
+  {{PLEASE READ THIS FIRST!
+    <h2>Welcome to the Iceberg!</h2>
+    <p>
+      This was created as ameans of presenting rediculous theories about <em>Kumo Desu ga, Nani ka?</em>
+      so that both their name and explanation is easily available. There are several variants, each targeting
+      an audience with a different level of knowledge about the series. Some theories may give <em>extremely</em>
+      large spoilers, so read them at your own risk. Generally speaking, avoid the icebergs that are for people
+      following an older medium.
+    </p>
+    <p>
+      As of the writing of this (mid-February, 2021), this means that, if you are up to date with a given medium,
+      you can safely check out the lists for any medium listed to its left: 
+    </p>
+    <code>
+      Anime < Manga < Light Novel (EN) < Light Novel (JP) < Web Novel
+    </code>
+    <p>
+      As the web novel is the furthest along in the series, it contains the most spoilers for anyone earlier.
+      We <em>strongly</em> recommend that you don't spoil yourself, as much of the entertainment of the series
+      comes from the way it presents information over time.
+    </p>
+  }}
+  
+  {{For Anime Viewers
+    <ul>
+    
+    </ul>
+  }}
 
-{{The Second Theory
-This is the second theory. There is nothing odd about it, just going on what we have now.<br/>
-<ul>
-<li>List item 1</li>
-<li>List item 2</li>
-</ul>
-<ol>
-<li>List item 1</li>
-<li>List item 2</li>
-</ol>
-}}
+  {{For Manga Readers
+    <ul>
+
+    </ul>
+  }}
+
+  {{For English Light Novel Readers
+    <ul>
+    
+    </ul>
+  }}
+
+  {{For Japanese Light Novel Readers
+    <ul>
+    
+    </ul>
+  }}
+
+  {{For Web Novel Readers
+    <ul>
+      <li><a href="?file=kumo-all.txt">The Truth</a></li>
+    </ul>
+  }}
 
 ]]
