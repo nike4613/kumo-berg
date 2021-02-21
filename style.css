@@ -27,6 +27,14 @@ body {
   background-color: black;
 }
 
+a {
+  color: lightskyblue;
+}
+
+a:visited {
+  color: lightseagreen
+}
+
 .parallax {
   width: 100%;
   min-height: 100vh;
