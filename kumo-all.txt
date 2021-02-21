@@ -155,12 +155,6 @@
     The world is a simulation by the design of Potimas, who is himself inside a simulation of Wakaba's.
   }}
 
-  {{Potimas.exe
-    Potimas uploaded his consciousness into the System. He can use that to move into anyone that has a fragment of his soul
-    due to his Ruler skill. I mean, the fucker <em>did</em> create robots out of child brains.
-    <span style="font-size:50%">I guess he fancied himself a contemporary Armstrong.</span>
-  }}
-
   {{Kumoko = Rihoko
     Kumoko's identity prior to reincarnation was the girl who was called 'Rihoko'. She mentions how she was bullied, and
     we know that Rihoko was bullied in the past. She also calls herself ugly, which fits with the meaning of the nickname, 
@@ -179,6 +173,52 @@
 
 [[<img class="section-image" title="Dustin" src="images/dustin_square.png"/>
 
+  {{61 Dustins
+    Each time Dustin 'reincarnates', he doesn't <em>actually</em> reincarnate, instead the System simply copies his memories
+    into a new person each time because of Perseverance. As such, there have been 61 Dustins in the history of this world, each
+    with distinct souls.
+  }}
 
+  {{Merazofis = Foddway
+    Merazofis is actually just the first Demon King and Vampire Progenitor Foddway.
+  }}
+
+  {{Sariel's True Love
+    Sariel is actually in love with Shun, and is thus giving him preferential treament in the System.
+    She forced the title of Hero onto him despite Shiraori's complaints, hoping that he will save her, possibly the greatest
+    'damsel in distress' to have ever existed.
+  }}
+
+  {{Demonic Origins
+    The humans are all descendants of demons who went though some genetic changes, just as the Neanderthals were to Homo Sapiens.
+  }}
+
+  {{Empty System Theory
+    The vast majority of the people in the system are nothing more than NPCs, and are there just to fill the world for the
+    few actual souls that remain.
+  }}
+
+  {{Forbidden Crush
+    <em>Unknown.</em>  
+  }}
+
+  {{Potimas.exe
+    Potimas uploaded his consciousness into the System. He can use that to move into anyone that has a fragment of his soul
+    due to his Ruler skill. I mean, the fucker <em>did</em> create robots out of child brains.
+    <span style="font-size:50%">I guess he fancied himself a contemporary Armstrong.</span>
+  }}
+
+  {{Sue the Reincarnation
+    <p>Sue is a stalker who followed Shun religiously in their previous life, and was, unluckily for her, peeking in to the
+    classroom at the time of the explosion. Her genius is because she herself is a reincarnation like Shun and Katia.</p>
+    <p>D gave her no unique skills, because she would be the only female family member that Shun would have in his life, and
+    D figured that was more than enough for her.</p>
+    <p>She was also never under Hugo's mind control, and was instead simply playing along to allow her to get even closer to
+    Shun.</p>
+  }}
+
+  {{Dreamscape
+    The world was, just as he had thought, entirely Hugo's dream.
+  }}
 
 ]]
