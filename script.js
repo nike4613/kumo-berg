@@ -116,7 +116,8 @@
 
       for (let section of sections) {
         const sectTag = document.createElement('ice-section');
-        const sectNameSpan = document.createElement('span');
+        const sectNameSpan = document.createElement('div');
+        sectNameSpan.classList.add('section-label');
         sectNameSpan.slot = 'label';
         sectNameSpan.innerHTML = section.title;
         sectTag.appendChild(sectNameSpan);
