@@ -107,6 +107,13 @@
       console.log(wrapper);
       console.log(sections);
 
+      function addRandSpacer(section, minSize, maxSize, row) {
+        const initialSpacer = document.createElement('div');
+        initialSpacer.style.gridColumn = `span ${getRandomInt(minSize, maxSize)}`;
+        initialSpacer.style.gridRow = `${row} / span 1`;
+        section.appendChild(initialSpacer);
+      }
+
       for (let section of sections) {
         const sectTag = document.createElement('ice-section');
         const sectNameSpan = document.createElement('span');
@@ -114,9 +121,7 @@
         sectNameSpan.innerHTML = section.title;
         sectTag.appendChild(sectNameSpan);
 
-        const initialSpacer = document.createElement('div');
-        initialSpacer.style.gridColumn = `span ${getRandomInt(0, 7)}`;
-        sectTag.appendChild(initialSpacer);
+        addRandSpacer(sectTag, 0, 7, 1);
 
         let currentRow = 1;
         let rowCount = 0;
@@ -144,6 +149,7 @@
           if (randNextLine < chance) {
             rowCount = 0;
             currentRow++;
+            addRandSpacer(sectTag, 0, 7, currentRow);
           }
         }
 

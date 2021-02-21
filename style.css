@@ -74,18 +74,18 @@ body {
 ice-theory {
   grid-column: span 6;
 }
-ice-theory:nth-of-type(11n) {
+ice-theory:nth-of-type(2n) {
+  grid-column: span 2;
+}
+ice-theory:nth-of-type(3n) {
+  grid-column: span 4;
+}
+ice-theory:nth-of-type(5n) {
   grid-column: span 3;
 }
 ice-theory:nth-of-type(7n) {
   grid-column: span 5;
 }
-ice-theory:nth-of-type(5n) {
-  grid-column: span 3;
-}
-ice-theory:nth-of-type(3n) {
+ice-theory:nth-of-type(11n) {
   grid-column: span 4;
-}
-ice-theory:nth-of-type(2n) {
-  grid-column: span 2;
 }
