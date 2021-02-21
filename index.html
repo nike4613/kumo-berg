@@ -21,10 +21,15 @@
           border-bottom: solid 2px black;
           padding-top: 10px;
           padding-bottom: 10px;
+
+          display: flex;
+          flex-direction: row-reverse;
+          justify-content: space-between;
+          align-items: stretch;
         }
 
         section > .section-label {
-          float: right;
+          /*float: right;*/
           position: sticky;
           margin-right: 10px;
           height: 100%;
@@ -35,6 +40,7 @@
           display: grid;
           /*grid-template-columns: repeat(auto, fit-content(300px));*/
           grid-auto-rows: auto;
+          flex-grow: 1;
         }
 
         /* END SECTION STYLES */
