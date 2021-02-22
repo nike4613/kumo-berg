@@ -59,6 +59,15 @@
       <style>
         /* BEGIN DETAILS STYLES */
 
+        details:focus {
+          outline: none;
+        }
+
+        details:focus > summary, details:focus .p, summary:focus, summary:focus ~ .p {
+          outline: white auto 1px;
+          outline: -webkit-focus-ring-color auto 1px; /* apparently chrome provides this??? */
+        }
+
         details > summary {
           display: inline-block;
           border: solid 2px black;
@@ -88,7 +97,7 @@
       </style>
       <details>
         <summary><slot name="title">UNNAMED THEORY. Provide a slot entry <code>slot="title"</code>.</slot></summary>
-        <p><slot/></p>
+        <p class="p"><slot/></p>
       </details>
     </template>
 
