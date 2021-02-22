@@ -300,7 +300,8 @@
   }}
 
   {{Soulreaper
-    <em>Unknown.</em>
+    D doesn't actually intend on letting the reincarnations' souls go back to the normal cycle, and is instead just using them
+    to fuel the System.
   }}
 
   {{Fake Kumoko
@@ -312,7 +313,8 @@
   }}
 
   {{Araba was an Inside Job
-    <em>Unknown.</em>
+    Araba intentionally helped Kumoko by sparing her life to motivate her to struggle on, as well as showing that the option
+    to sacrifice your skills existed. That, in particular, would become a major part of Shiraori's plan.
   }}
 
 ]]
@@ -326,7 +328,8 @@
   }}
 
   {{Gürie the Lover-Killer
-    <em>Unknown.</em>
+    Gürie wants Sariel to die because he raped her while she was stuck in the System's nexus, and is now afraid that she will
+    break free and tell people about that.
   }}
 
   {{The God of Earth
