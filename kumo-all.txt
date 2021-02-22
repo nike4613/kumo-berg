@@ -199,7 +199,8 @@
   }}
 
   {{Forbidden Crush
-    <em>Unknown.</em>  
+    Gürie has a crush on Shiro, but doesn't want to betray Sariel, so wants to kill Shiro to prevent him from doing something
+    he would regret.
   }}
 
   {{Potimas.exe
@@ -263,6 +264,55 @@
     <p>In addition, D's hatred of Dragons is very much like Shiraori's.</p>
     <p>It would be very likely then, that Meido was future Sophia, and that Angels might be Potimas's remaining robots at some
     point in the future. Even the True Dragons may be decendents of Gürie's 'fake' dragons.</p>
+  }}
+
+]]
+
+[[<img class="section-image" title="D" src="images/d_square.png"/>
+
+  {{Godegg Theory
+    The System is a "godegg", a structure that houses D's soul from different timelines, across reincarnations to accumulate
+    experience so she can reach true godhood. This is based on the short story "The Egg" by Andy Weir, available
+    <a href="http://galactanet.com/oneoff/theegg_mod.html">here</a>.
+  }}
+
+  {{The Price of Mercy
+    The use of the Mercy skill sacrifices other people in the System to perform its resurrection. Because of the sheer amount
+    of energy it uses, the System has to sacrifice other souls to keep up.
+  }}
+
+  {{Sariel = D
+    Sariel and D are actually the same person.
+  }}
+
+  {{D's Angel
+    Sariel is the kin of D, just as Shiro is.
+  }}
+
+  {{Purgatory
+    The System planet is actually Purgatory, managed by D. She is responsible for an "underworld", and so it is likely that
+    she created the system as a form of purgatory to place souls which deserved punishment, but didn't need to go to her hell.
+    The system's erosion of the souls in it is the primary punishment.
+  }}
+
+  {{Sariel the Terminator
+    Sariel is an AI created by Potimas to help him kill Gürie.
+  }}
+
+  {{Soulreaper
+    <em>Unknown.</em>
+  }}
+
+  {{Fake Kumoko
+    Kumoko is actually D. She did this to shirk her duties.
+  }}
+
+  {{Motherbot 54R13L
+    The real Sariel died long ago, and got replaced by a robot.
+  }}
+
+  {{Araba was an Inside Job
+    <em>Unknown.</em>
   }}
 
 ]]
