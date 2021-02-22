@@ -2,19 +2,13 @@
 /* BEGIN PARALLAX STYLES */
 
 :root {
-  --img-height: 2994px;
-
-  --bg-z-depth: 35;
+  --bg-z-depth: 100;
   --bg-perspective: 100;
-  --bg-translate-z: calc(-1px * var(--bg-z-depth));
-  --bg-perspective-px: calc(1px * var(--bg-perspective));
-  --bg-scale: calc(calc(var(--bg-z-depth) + var(--bg-perspective)) / var(--bg-perspective));
 }
 
 html, body {
   padding: 0px;
   margin: 0px;
-
 }
 
 html {
@@ -22,15 +16,18 @@ html {
 }
 
 body {
-  /*width: 100vw;*/
-  /*min-*/height: 100vh;
+  /* these calculate the settings needed based on other variables */
+  /* they need to be done *here* because this is the first place that they are used */
+  --bg-translate-z: calc(-1px * var(--bg-z-depth));
+  --bg-perspective-px: calc(1px * var(--bg-perspective));
+  --bg-scale: calc(calc(var(--bg-z-depth) + var(--bg-perspective)) / var(--bg-perspective));
+  height: 100vh;
   overflow-x: hidden;
   overflow-y: auto;
   perspective: var(--bg-perspective-px);
   perspective-origin: center top;
   transform-origin: center top;
   transform-style: preserve-3d;
-
   color: white;
   background-color: black;
 }
@@ -45,10 +42,14 @@ a:visited {
 
 .parallax {
   width: 100%;
-  min-height: 100vh;
-  /*height: 100vh;*/
+  height: fit-content;
   position: relative;
   transform-style: inherit;
+  --img-height: 2994;
+  --img-width: 2385;
+  --img-height-px: calc(1px * var(--img-height));
+  --img-width-px: calc(1px * var(--img-width));
+  --img-aspect-hw: calc(var(--img-height) / var(--img-width));
 }
 
 #iceberg > .title-container {
@@ -64,34 +65,35 @@ a:visited {
 }
 
 /* The actual image */
-#iceberg:before {
+.parallax:before {
   background-image: url("iceberg.webp");
   background-repeat: no-repeat;
   background-position: top;
-  background-size: contain;
+  background-size: 100% auto;
   perspective-origin: center top;
   transform-origin: center top;
   position: absolute;
-  min-height: 100%;
+  height: calc(100% / var(--bg-scale));
+  min-height: 100vh;
   top: 0px;
   left: -1vw; /* these have these values to prevent small black bars on the side */
   right: -1vw;
-  bottom: calc(100% / var(--bg-scale));
+  bottom: 0px;
   z-index: -2;
   content: "";
   transform: translateZ(var(--bg-translate-z)) scale(var(--bg-scale));
 }
 
 /* The continuation gradient */
-#iceberg:after {
+.parallax:after {
   background: linear-gradient(to bottom, #01012a, black);
   position: absolute;
   perspective-origin: center top;
-  transform-origin: center calc(-1 * var(--img-height));
-  top: var(--img-height);
+  transform-origin: center 0px;
+  top: min(100%, calc(120vw * var(--img-aspect-hw)));
   left: -1vw;
   right: -1vw;
-  bottom: calc(100% / var(--bg-scale));
+  bottom: 0px;
   z-index: -1;
   content: "";
   transform: translateZ(var(--bg-translate-z)) scale(var(--bg-scale));
@@ -104,7 +106,7 @@ div.section-label {
 }
 
 img.section-image {
-  width: 30vh;
+  width: 15vw;
   height: auto;
 }
 
