@@ -149,6 +149,25 @@
         }
       }
 
+      // if parallax is a number, calculate perspective and z-depth
+      if (typeof(iceberg.options.parallax) === "number") {
+        //   as a number, it represents the ratio of bgScroll/fgScroll
+        let scrollRatio = iceberg.options.parallax;
+        //   so a value of 0.5 would be equivalent to z:1, p:1,
+        // because the ratio is determined as follows:
+        //                r = p / (z + p)
+        // which is the exact inverse of the scale correction
+        //
+        //   then, to determine values, we pick a fixed p (like 1000),
+        // and calculate z as follows:
+        //                z = (p / r) - p
+        const p = 1000;
+        const z = (p / scrollRatio) - p;
+
+        document.body.style.setProperty("--bg-z-depth", z);
+        document.body.style.setProperty("--bg-perspective", p);
+      }
+
       function addRandSpacer(section, minSize, maxSize, row) {
         const initialSpacer = document.createElement('div');
         initialSpacer.style.gridColumn = `span ${getRandomInt(minSize, maxSize)}`;
