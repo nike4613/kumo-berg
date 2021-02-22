@@ -1,6 +1,16 @@
 
 /* BEGIN PARALLAX STYLES */
 
+:root {
+  --img-height: 2994px;
+
+  --bg-z-depth: 35;
+  --bg-perspective: 100;
+  --bg-translate-z: calc(-1px * var(--bg-z-depth));
+  --bg-perspective-px: calc(1px * var(--bg-perspective));
+  --bg-scale: calc(calc(var(--bg-z-depth) + var(--bg-perspective)) / var(--bg-perspective));
+}
+
 html, body {
   padding: 0px;
   margin: 0px;
@@ -9,8 +19,6 @@ html, body {
 
 html {
   overflow: hidden;
-
-  --img-height: 2994px;
 }
 
 body {
@@ -18,7 +26,7 @@ body {
   /*min-*/height: 100vh;
   overflow-x: hidden;
   overflow-y: auto;
-  perspective: 1px;
+  perspective: var(--bg-perspective-px);
   perspective-origin: center top;
   transform-origin: center top;
   transform-style: preserve-3d;
@@ -46,7 +54,6 @@ a:visited {
 #iceberg > .title-container {
   width: 100%;
   height: 440px; /* it's approx. 440 px from the top of the image to the top of the berg itself */
-  padding: auto;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -67,12 +74,12 @@ a:visited {
   position: absolute;
   min-height: 100%;
   top: 0px;
-  left: 0px;
-  right: 0px;
-  bottom: 50%;
+  left: -1vw; /* these have these values to prevent small black bars on the side */
+  right: -1vw;
+  bottom: calc(100% / var(--bg-scale));
   z-index: -2;
   content: "";
-  transform: translateZ(-1px) translateX(-10px) scale(2);
+  transform: translateZ(var(--bg-translate-z)) scale(var(--bg-scale));
 }
 
 /* The continuation gradient */
@@ -82,12 +89,12 @@ a:visited {
   perspective-origin: center top;
   transform-origin: center calc(-1 * var(--img-height));
   top: var(--img-height);
-  left: 0px;
-  right: 0px;
-  bottom: 50%;
+  left: -1vw;
+  right: -1vw;
+  bottom: calc(100% / var(--bg-scale));
   z-index: -1;
   content: "";
-  transform: translateZ(-1px) translateX(-10px) scale(2);
+  transform: translateZ(var(--bg-translate-z)) scale(var(--bg-scale));
 }
 
 /* END PARALLAX STYLES */
