@@ -46,18 +46,28 @@
       // we are now parsing the data
       const fileParts = responseText.split(/\r?\n/);
       let sections = [];
-      let title = null;
       let currentSection = null;
       let currentTheory = null;
+      let options = {};
       for (let line of fileParts) {
         line = line.trim();
         // process sections
-        if (title === null) {
-          if (line.startsWith(">")) {
-            title = line.slice(1);
-          }
-        }
         if (currentSection === null) {
+          if (sections.length == 0) {
+            // process directives before sections
+            if (line.startsWith(">")) {
+              // special title specification syntax
+              options.title = line.slice(1);
+            }
+            if (line.startsWith("$")) {
+              const cmd = line.slice(1).trim();
+              const idx = cmd.indexOf(" ");
+              const name = cmd.slice(0, idx);
+              const sobj = cmd.slice(idx + 1);
+              options[name] = JSON.parse(sobj);
+            }
+          }
+
           if (line.startsWith("[[")) {
             let title = line.slice(2);
             currentSection = {
@@ -99,7 +109,7 @@
           }
         }
       }
-      return { title, sections };
+      return { sections, options };
     });
 
   function getRandomInt(min, max) {
@@ -117,13 +127,25 @@
       // we always create the title container
       const titleContainer = document.createElement('div');
       titleContainer.classList.add('title-container');
-      if (iceberg.title !== null) {
+      if (iceberg.options.title) {
         const titleText = document.createElement('h1');
-        titleText.innerHTML = iceberg.title
+        titleText.innerHTML = iceberg.options.title;
         titleText.classList.add('title');
         titleContainer.appendChild(titleText);
       }
       wrapper.appendChild(titleContainer);
+
+      if (typeof(iceberg.options.parallax) === "object") {
+        let paraObj = iceberg.options.parallax;
+
+        let zdepth = paraObj.z || paraObj.zdepth;
+        let perspective = paraObj.p || paraObj.persp || paraObj.perspective;
+
+        if (typeof(zdepth) === "number" && typeof(perspective) === "number") {
+          wrapper.style["--bg-z-depth"] = zdepth;
+          wrapper.style["--bg-perspective"] = perspective;
+        }
+      }
 
       function addRandSpacer(section, minSize, maxSize, row) {
         const initialSpacer = document.createElement('div');

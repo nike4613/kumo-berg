@@ -68,7 +68,7 @@ a:visited {
   background-image: url("iceberg.webp");
   background-repeat: no-repeat;
   background-position: top;
-  background-size: auto;
+  background-size: contain;
   perspective-origin: center top;
   transform-origin: center top;
   position: absolute;
