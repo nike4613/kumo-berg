@@ -141,9 +141,11 @@
         let zdepth = paraObj.z || paraObj.zdepth;
         let perspective = paraObj.p || paraObj.persp || paraObj.perspective;
 
-        if (typeof(zdepth) === "number" && typeof(perspective) === "number") {
-          wrapper.style["--bg-z-depth"] = zdepth;
-          wrapper.style["--bg-perspective"] = perspective;
+        if (typeof(zdepth) === "number") {
+          document.body.style.setProperty("--bg-z-depth", zdepth);
+        }
+        if (typeof(perspective) === "number") {
+          document.body.style.setProperty("--bg-perspective", perspective);
         }
       }
 
