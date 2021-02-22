@@ -1,7 +1,35 @@
+  Any lines without any prefix (like >, $, [[, ]], {{, or }}) are ignored, except within {{ }} blocks.
+In those blocks, such text is rendered as the body of the details view.
+
+See kumo-all.txt for a complete file using all current features.
+
+  Set the background to scroll at 1/2 the speed as the foreground. The number represents the scroll ratio
+as the background scroll speed over the foreground scroll speed. It may also be specified as a JSON object
+with a property 'z' and 'p', where the equivalent scroll ratio is given by p / (z + p).
+
+$ parallax 0.5
+
+Note that on Chromium, the user may be able to scroll past the end of the image. This is a Blink bug.
+This won't be noticable unless you do not have enough sections to fill the image at your scroll ratio.
+
+  The $ line prefix can be used to set any option, and they always take the form `$ name jsonValue` where
+jsonValue is valid JSON. The name can be anything, and does not have to have a space before the $. There must
+be a space after the name.
+
+  Set the title text. This does not set the tab title. This is rendered as HTML above the first section.
+This is special syntax for setting the 'title' option to the string following the >.
+
 >The Iceberg
 
-[[
+That is exactly equivalent to this:
 
+$ title "The Iceberg"
+
+  Start a (nameless) section. All text following the delimiter will be rendered as HTML on the right of the section.
+Often, this will be an image. If it is, give it the class 'section-image' to ensure that it has a reasonable size.
+[[
+    Start a theory description named 'PLEASE READ THIS FIRST!'. This is shown in the unexpanded detail prompt, with
+  a solid background, in a monospace font. The content of the block is also rendered as HTML.
   {{PLEASE READ THIS FIRST!
     <h2>Welcome to the Iceberg!</h2>
     <p>
