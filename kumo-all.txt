@@ -364,3 +364,44 @@
   }}
 
 ]]
+
+[[<img class="section-image" title="Snailbug" src="images/snailbug_clean.png"/>
+
+  {{D is a Snailbug
+    D is an ascended snailbug. We don't actually where D came from, but we do know that she has an affinity for the rot attribute,
+    just like the snailbugs do.
+  }}
+
+  {{Snailbugs taste good
+    Snailbugs actually taste so good they overload most creatures taste buds.
+  }}
+
+  {{Snailbug Evolution
+    Snailbugs, if they evolve enough, turn into massively over-powered world-ending monsters.
+  }}
+
+  {{The Great Snailbug
+    The Elroe Great Labyrinth is a massive snailbug corpse, possibly of an ascended snailbug. They get larger with evolution,
+    and so it is possible that one of the first snailbugs had grown to a massive size before being killed by the first Hero and
+    Demon Lord.
+  }}
+
+  {{Snailbug-ko
+    Wakaba was actually kin of the Great Snailbug God in the past, but after being killed in the explosion, D convinced her that
+    she was, in fact, a spider.
+  }}
+
+  {{System Cheats 
+    <ul>
+      <li>Eating 7 snailbugs lets you instantly ascend to godhood.</li>
+      <li>If you can enter the Konami Code in the System, it will automatically give you the role of an Administrator while you
+      remain mortal, and even acts to prevent your soul from collapsing under the stress of too many skulls.</li>
+    </ul>
+  }}
+
+  {{Flat Planet
+    The planet the System is on was originally flat, but Potimas used MA energy to reshape it into a geoid like other planets.
+    The True Dragons, being fans of planar planets, left when Potimas did so because he ruined their paradice.
+  }}
+
+]]
