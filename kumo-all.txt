@@ -216,8 +216,8 @@ $ parallax {"z":35,"p":100}
 
 [[<img class="section-image" title="Dustin" src="images/dustin_square.png"/>
 
-  {{Merazofis = Foddway
-    Merazofis is actually just the first Demon King and Vampire Progenitor Foddway.
+  {{Dustin Ooal Gown
+    Dustin isn't actually all that clever; he's just <em>very</em> good at bluffing his way though life.
   }}
 
   {{Sariel's True Love
@@ -226,24 +226,27 @@ $ parallax {"z":35,"p":100}
     'damsel in distress' to have ever existed.
   }}
 
-  {{Demonic Origins
-    The humans are all descendants of demons who went though some genetic changes, just as the Neanderthals were to Homo Sapiens.
-  }}
-
-  {{Empty System Theory
-    The vast majority of the people in the system are nothing more than NPCs, and are there just to fill the world for the
-    few actual souls that remain.
-  }}
-
   {{Forbidden Crush
     Gürie has a crush on Shiro, but doesn't want to betray Sariel, so wants to kill Shiro to prevent him from doing something
     he would regret.
   }}
 
-  {{Potimas.exe
-    Potimas uploaded his consciousness into the System. He can use that to move into anyone that has a fragment of his soul
-    due to his Ruler skill. I mean, the fucker <em>did</em> create robots out of child brains.
-    <span style="font-size:50%">I guess he fancied himself a contemporary Armstrong.</span>
+  {{Demonic Origins
+    The humans are all descendants of demons who went though some genetic changes, just as the Neanderthals were to Homo Sapiens.
+  }}
+
+  {{The Empty System
+    The vast majority of the people in the system are nothing more than NPCs, and are there just to fill the world for the
+    few actual souls that remain.
+  }}
+
+  {{The Price of Mercy
+    The use of the Mercy skill sacrifices other people in the System to perform its resurrection. Because of the sheer amount
+    of energy it uses, the System has to sacrifice other souls to keep up.
+  }}
+
+  {{Merazofis = Foddway
+    Merazofis is actually just the first Demon King and Vampire Progenitor Foddway.
   }}
 
   {{Sue the Reincarnation
@@ -257,10 +260,6 @@ $ parallax {"z":35,"p":100}
 
   {{Dreamscape
     The world was, just as he had thought, entirely Hugo's dream.
-  }}
-
-  {{Dustin Ooal Gown
-    Dustin isn't actually all that clever; he's just <em>very</em> good at bluffing his way though life.
   }}
 
 ]]
@@ -301,6 +300,13 @@ $ parallax {"z":35,"p":100}
     point in the future. Even the True Dragons may be decendents of Gürie's 'fake' dragons.</p>
   }}
 
+  {{Potimas.exe
+    Potimas uploaded his consciousness into the System. He can use that to move into anyone that has a fragment of his soul
+    due to his Ruler skill. I mean, the fucker <em>did</em> create robots out of child brains.
+    <span style="font-size:50%">I guess he fancied himself a contemporary Armstrong.</span>
+  }}
+
+
 ]]
 
 [[<img class="section-image" title="D" src="images/d_square.png"/>
@@ -309,11 +315,6 @@ $ parallax {"z":35,"p":100}
     The System is a "godegg", a structure that houses D's soul from different timelines, across reincarnations to accumulate
     experience so she can reach true godhood. This is based on the short story "The Egg" by Andy Weir, available
     <a href="http://galactanet.com/oneoff/theegg_mod.html">here</a>.
-  }}
-
-  {{The Price of Mercy
-    The use of the Mercy skill sacrifices other people in the System to perform its resurrection. Because of the sheer amount
-    of energy it uses, the System has to sacrifice other souls to keep up.
   }}
 
   {{Sariel = D
