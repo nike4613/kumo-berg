@@ -115,6 +115,8 @@ ice-theory ol, ice-theory ul {
   margin-right: 30px; /* approx what the user agent gives me */
 }
 
+/* These give a sense of randomness to the layout */
+
 ice-theory {
   grid-column: span 6;
 }
@@ -132,4 +134,11 @@ ice-theory:nth-of-type(7n) {
 }
 ice-theory:nth-of-type(11n) {
   grid-column: span 4;
+}
+
+/* Hide corrupted text until JS can properly corrupt it */
+
+.corrupted:not(.noblot) {
+  background-color: aliceblue;
+  transform: scale(-1) scaleX(.75);
 }

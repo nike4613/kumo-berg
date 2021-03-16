@@ -379,6 +379,7 @@ $ parallax {"z":35,"p":100}
     and away from the darkness of the Elders.</p>
     <p class="corrupted">If thou find thyself in the midst of the Elders, you have already lost.
     Simply pray to our Lord, and if He deems thee to be worthy of His love, He will save you.</p>
+    <p class="corrupted">May He have mercy on your soul.</p>
   }}
 
 ]]

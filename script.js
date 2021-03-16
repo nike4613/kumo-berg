@@ -217,6 +217,36 @@
 
         wrapper.appendChild(sectTag);
       }
+    })
+    .then(() => {
+      // at this point, the entire page is loaded; we can do fun manipulations
+      
+      // here, lunicode is loaded, and the page is loaded
+      const luni = new Lunicode();
+      luni.tools.creepify.options.top = true;
+      luni.tools.creepify.options.middle = true; 
+      luni.tools.creepify.options.bottom = true;
+      luni.tools.creepify.options.maxHeight = 20; 
+      // 0-100%. maxHeight 100 and randomization 20%: the height goes from 80 to 100. randomization 70%: height goes from 30 to 100. Default: 100
+      luni.tools.creepify.options.randomization = 70;
+      
+      const corrupted = document.querySelectorAll(".corrupted");
+      for (let node of corrupted){
+        for (let text of node.childNodes) {
+          if (text instanceof CharacterData){
+            let str = text.data;
+            // first we bend
+            str = luni.tools.bent.encode(str);
+            // then we add some squares
+            str = luni.tools.roundsquares.encode(str);
+            // then we add millions of diacritics
+            str = luni.tools.creepify.encode(str);
+            // then we just set it back
+            text.data = str;
+          }
+        }
+        node.classList.add("noblot");
+      }
     });
 
 })();
