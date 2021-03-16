@@ -385,9 +385,22 @@ $ parallax {"z":35,"p":100}
 
 [[<img class="section-image" title="Okina Baba" src="images/okina_square.png"/>
 
+  {{Everyone is Kumoko
+    Everyone is a seperate parallel mind of Kumoko.
+  }}
+
   {{The God of Earth
     The entire story is written by D, under the pseudonym Okina Baba. This also implies that Meido would be using the pseudonym
     Tsukasa Kiryuu, since they seem to be fairly close friends.
+  }}
+
+  {{Damn Score Dubs
+
+  }}
+
+  {{Mother's Suicide Plan
+    Kumoko's Mother wanted to die to break away from the Demon Lord's control. She spared Kumoko's life several times, as well
+    as helping her along in some cases.
   }}
 
   {{Evil Shun
@@ -395,9 +408,18 @@ $ parallax {"z":35,"p":100}
     of his plan, his personality was warped even further, which he didn't account for.
   }}
 
-  {{Mother's Suicide Plan
-    Kumoko's Mother wanted to die to break away from the Demon Lord's control. She spared Kumoko's life several times, as well
-    as helping her along in some cases.
+  {{Black Hole Gods
+    Black holes are ancient gods which have the power to simply absorb any energy which is near them.
+  }}
+
+  {{Hugo, the Original Hero
+    In the first draft, Hugo was the protagonist of the human side, but he changed his mind because of the standards of other
+    Isekai stories.
+  }}
+
+  {{Backward Scriptwriting
+    Okina wrote the story before figuring out what kind of mechanics would be needed to make it work, instead of planning the
+    mechanics out before writing the story.
   }}
 
   {{There Is No Spider
@@ -406,14 +428,8 @@ $ parallax {"z":35,"p":100}
     to allow her to hide out on Earth, pretending that there was in fact a survivor in the form of Wakaba.
   }}
 
-  {{Backward Scriptwriting
-    Okina wrote the story before figuring out what kind of mechanics would be needed to make it work, instead of planning the
-    mechanics out before writing the story.
-  }}
-
-  {{Hugo, the Original Hero
-    In the first draft, Hugo was the protagonist of the human side, but he changed his mind because of the standards of other
-    Isekai stories.
+  {{The Trolly Problem
+    This whole story is just an extremely elaborate setup for the grand finale, a trolley problem.
   }}
 
 ]]
