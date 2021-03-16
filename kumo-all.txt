@@ -331,18 +331,23 @@ $ parallax {"z":35,"p":100}
     <a href="http://galactanet.com/oneoff/theegg_mod.html">here</a>.
   }}
 
-  {{Sariel = D
-    Sariel and D are actually the same person.
-  }}
-
   {{D's Angel
     Sariel is the kin of D, just as Shiro is.
+  }}
+
+  {{Sariel = D
+    Sariel and D are actually the same person.
   }}
 
   {{Purgatory
     The System planet is actually Purgatory, managed by D. She is responsible for an "underworld", and so it is likely that
     she created the system as a form of purgatory to place souls which deserved punishment, but didn't need to go to her hell.
     The system's erosion of the souls in it is the primary punishment.
+  }}
+
+  {{7 Virtuous Keys and 7 Sinful Keys
+    Each of the virtue and sin skills were tailor made for one of the 14 most important people of the Past, where
+    each one matches their personalities.
   }}
 
   {{Sariel the Terminator
@@ -354,23 +359,31 @@ $ parallax {"z":35,"p":100}
     to fuel the System.
   }}
 
-  {{Motherbot 54R13L
-    The real Sariel died long ago, and got replaced by a robot.
-  }}
-
   {{Araba was an Inside Job
     Araba intentionally helped Kumoko by sparing her life to motivate her to struggle on, as well as showing that the option
     to sacrifice your skills existed. That, in particular, would become a major part of Shiraori's plan.
   }}
 
-]]
-
-[[<img class="section-image" title="Okina Baba" src="images/okina_square.png"/>
-
   {{Gürie the Lover-Killer
     Gürie wants Sariel to die because he raped her while she was stuck in the System's nexus, and is now afraid that she will
     break free and tell people about that.
   }}
+
+  {{Motherbot 54R13L
+    The real Sariel died long ago, and got replaced by a robot.
+  }}
+
+  {{Elder God Angels Firiel and Ririel
+    <p class="corrupted">May the good Lord bless our souls such that we may never encounter the
+    Elders whilst they are angry. Let our lives be guided by thy Providence toward your Light,
+    and away from the darkness of the Elders.</p>
+    <p class="corrupted">If thou find thyself in the midst of the Elders, you have already lost.
+    Simply pray to our Lord, and if He deems thee to be worthy of His love, He will save you.</p>
+  }}
+
+]]
+
+[[<img class="section-image" title="Okina Baba" src="images/okina_square.png"/>
 
   {{The God of Earth
     The entire story is written by D, under the pseudonym Okina Baba. This also implies that Meido would be using the pseudonym
