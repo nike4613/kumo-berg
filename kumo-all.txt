@@ -7,7 +7,7 @@ $ parallax {"z":35,"p":100}
     D is the same creature that made Tanya's life miserable.
   }}
 
-  {{Inception
+  x{{Inception
     <em>Unknown.</em>
   }}
 
@@ -395,7 +395,7 @@ $ parallax {"z":35,"p":100}
     Tsukasa Kiryuu, since they seem to be fairly close friends.
   }}
 
-  {{Damn Score Dubs
+  x{{Damn Score Dubs
 
   }}
 
