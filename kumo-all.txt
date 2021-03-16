@@ -111,43 +111,63 @@ $ parallax {"z":35,"p":100}
     which was created to make fun of her appearence.
   }}
 
-
 ]]
 
 [[<img class="section-image" title="Gürie" src="images/gyurie_square.png" style="transform:scale(0.9)"/>
+
+  {{Wakaba's Fanfic
+    The entire story is just a fanfiction Wakaba wrote about Shun because she had a crush on him.
+  }}
 
   {{D = Death
     <p>D is the god of Death; a Grim Reaper of sorts.</p>
     <p>This actually has a lot of supporting evidence, what with Shiro's scythe, and some of the things that Meido says to D.</p>
   }}
 
-  {{Hyrince's Fetish
-    Since Hyrince is a clone of Gürie, he also has a thing for Goddesses.
-  }}
-
-  {{The System is a Godcradle
-    One of the goals of the System was to try to artifically create a God out of a creature that isn't usually able to become one.
-  }}
-
   {{Kuro = Hugo
     The 9th Demon Army General Kuro is actually just Hugo, bringing his revenge against the humans.
   }}
 
-  {{Gürie's Daughter
-    🙂
+  {{Fake Kumoko
+    Kumoko is actually D. She did this to shirk her duties.
   }}
 
-  {{Gürie is a Classmate of the Reincarnations
-    Gürie was either one of those reincarnated that were not accounted for by Oka, or was another student in the same grade.
+  {{Yuri is Shiraori
+    After accidentally gaining Taboo knowledge, Yuri goes <em>even more</em> crazy, turning her eyes red and turning against
+    the church in an act of self-preservation. Eventually, she would ascend to godhood due only to how much this warped her soul.
+  }}
+
+  {{Ancient Tech
+    Remnants of an ancient civilization can be found deep below the surface on this planet.
+  }}
+
+  {{Hyrince's Fetish
+    Since Hyrince is a clone of Gürie, he also has a thing for Goddesses.
+  }}
+
+  {{Dragons Left Behind
+    The true dragons either never left or have returned, staying in hiding the whole time.
   }}
 
   {{Mother is The Nightmare
     Kumoko's towering mother is the spider monster referred to as the "Nightmare of the Labyrinth".
   }}
 
+  {{Taboo is a Lie
+    The knowledge contained within Taboo is entirely fictional, composed by D to mislead people.
+  }}
+
 ]]
 
 [[<img class="section-image" title="Potimas" src="images/potimas_square.png"/>
+
+  {{Gürie is a Classmate of the Reincarnations
+    Gürie was either one of those reincarnated that were not accounted for by Oka, or was another student in the same grade.
+  }}
+
+  {{The System is a Godcradle
+    One of the goals of the System was to try to artifically create a God out of a creature that isn't usually able to become one.
+  }}
 
   {{Parallel Rulers
     You can claim opposing Ruler skills as long as you have different parallel wills that meet the criteria necessary.
@@ -161,24 +181,8 @@ $ parallax {"z":35,"p":100}
     Fei is actually a kin of Gürie, and so has a pretty solid chance of becoming a god.
   }}
 
-  {{Dragons Left Behind
-    The true dragons either never left or have returned, staying in hiding the whole time.
-  }}
-
-  {{Taboo is a Lie
-    The knowledge contained within Taboo is entirely fictional, composed by D to mislead people.
-  }}
-
-  {{Wakaba's Fanfic
-    The entire story is just a fanfiction Wakaba wrote about Shun because she had a crush on him.
-  }}
-
   {{Potimatrix
     The world is a simulation by the design of Potimas, who is himself inside a simulation of Wakaba's.
-  }}
-
-  {{Ancient Tech
-    Remnants of an ancient civilization can be found deep below the surface on this planet.
   }}
 
   {{Dustin Ooal Gown
@@ -242,9 +246,8 @@ $ parallax {"z":35,"p":100}
 
 [[<img class="section-image" title="Shiro" src="images/shiro_clean.png"/>
 
-  {{Yuri is Shiraori
-    After accidentally gaining Taboo knowledge, Yuri goes <em>even more</em> crazy, turning her eyes red and turning against
-    the church in an act of self-preservation. Eventually, she would ascend to godhood due only to how much this warped her soul.
+  {{Gürie's Daughter
+    🙂
   }}
 
   {{Mother's Kin Control
@@ -318,10 +321,6 @@ $ parallax {"z":35,"p":100}
   {{Soulreaper
     D doesn't actually intend on letting the reincarnations' souls go back to the normal cycle, and is instead just using them
     to fuel the System.
-  }}
-
-  {{Fake Kumoko
-    Kumoko is actually D. She did this to shirk her duties.
   }}
 
   {{Motherbot 54R13L
