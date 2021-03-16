@@ -436,6 +436,10 @@ $ parallax {"z":35,"p":100}
 
 [[<img class="section-image" title="Snailbug" src="images/snailbug_clean.png"/>
 
+  {{[n%I=W]
+    Nai wa!
+  }}
+
   {{D is a Snailbug
     D is an ascended snailbug. We don't actually where D came from, but we do know that she has an affinity for the rot attribute,
     just like the snailbugs do.
