@@ -266,6 +266,12 @@ $ parallax {"z":35,"p":100}
 
 [[<img class="section-image" title="Shiro" src="images/shiro_clean.png"/>
 
+  {{Potimas.exe
+    Potimas uploaded his consciousness into the System. He can use that to move into anyone that has a fragment of his soul
+    due to his Ruler skill. I mean, the fucker <em>did</em> create robots out of child brains.
+    <span style="font-size:50%">I guess he fancied himself a contemporary Armstrong.</span>
+  }}
+
   {{Gürie's Daughter
     🙂
   }}
@@ -277,6 +283,15 @@ $ parallax {"z":35,"p":100}
     hatred of Gürie, a True Dragon.
   }}
 
+  {{Ariel is Kumoko's daughter
+    Wakaba died 15-ish years ago, and Ariel is just her daughter. She's lying when she talks about how old she is;
+    she's just a typical teenage girl.
+  }}
+
+  {{Poti-net
+    Potimas has long since escaped from the System on one of his UFOs, leaving only his brain in a jar.
+  }}
+
   {{Fake Reincarnations
     The 'reincarnations' are actually artifical souls created by Potimas as a way to experiment with the limits the System
     put on him. He hacked into the System to help him create those souls, and wanted to use them as puppets to gain control
@@ -285,6 +300,12 @@ $ parallax {"z":35,"p":100}
 
   {{Spiders, the lot of them!
     All of the reincarnators were originally spiders, and the attack that killed them only hit a spider mother and her young.
+  }}
+
+  {{Fake Fei
+    Fei is not Shinohara, her memories just got imprinted onto a wyrm's soul while the real Shinohara is a True Dragon who lived
+    on Earth with D. She bullied Wakaba because she knew they weren't allowed to use their magecraft on Earth. This bullying is
+    why D hates True Dragons.
   }}
 
   {{Hiiro Conundrum
@@ -299,13 +320,6 @@ $ parallax {"z":35,"p":100}
     <p>It would be very likely then, that Meido was future Sophia, and that Angels might be Potimas's remaining robots at some
     point in the future. Even the True Dragons may be decendents of Gürie's 'fake' dragons.</p>
   }}
-
-  {{Potimas.exe
-    Potimas uploaded his consciousness into the System. He can use that to move into anyone that has a fragment of his soul
-    due to his Ruler skill. I mean, the fucker <em>did</em> create robots out of child brains.
-    <span style="font-size:50%">I guess he fancied himself a contemporary Armstrong.</span>
-  }}
-
 
 ]]
 
@@ -352,12 +366,6 @@ $ parallax {"z":35,"p":100}
 ]]
 
 [[<img class="section-image" title="Okina Baba" src="images/okina_square.png"/>
-
-  {{Fake Fei
-    Fei is not Shinohara, her memories just got imprinted onto a wyrm's soul while the real Shinohara is a True Dragon who lived
-    on Earth with D. She bullied Wakaba because she knew they weren't allowed to use their magecraft on Earth. This bullying is
-    why D hates True Dragons.
-  }}
 
   {{Gürie the Lover-Killer
     Gürie wants Sariel to die because he raped her while she was stuck in the System's nexus, and is now afraid that she will
