@@ -3,8 +3,12 @@ $ parallax {"z":35,"p":100}
 
 [[<img class="section-image" title="Shun" src="images/shun_square.png"/>
 
-  {{So I'm a Spider, So What?
-    Who even cares if I'm a spider?
+  {{Being X = Administrator D
+    D is the same creature that made Tanya's life miserable.
+  }}
+
+  {{Inception
+    <em>Unknown.</em>
   }}
 
   {{Tsundere Prince
@@ -29,14 +33,17 @@ $ parallax {"z":35,"p":100}
 
 [[<img class="section-image" title="Katia" src="images/katia_square.png"/>
 
-  {{Human side is a myth
-    The human side doesn't actually exist. Its all in our heads.
-    <em><span style="font-size:90%">You </span><span style="font-size:75%">have </span>
-    <span style="font-size:60%">to </span><span style="font-size:45%">wake </span><span style="font-size:30%">up.</span></em>
+  {{Lv.100 Human Evolution
+    Humans evolve at level 100.
   }}
 
-  {{Innocent Hugo
-    Hugo did nothing wrong.
+  {{Oka is an admin
+    Since she NOT ONLY knows about all of her students, no matter where they are, but she also has control over
+    the stat and skill systems, she <em>must</em> be an Admininstrator.
+  }}
+  
+  {{Maou = Kumoko
+    THE MAOU IS ACTUALLY KUMOKO IS ACTUALLY THE MAOU IS ACTUALLY THE DEMON LORD!!!!!!11!!1!1!!11
   }}
 
   {{Shinohara the Furry
@@ -57,20 +64,23 @@ $ parallax {"z":35,"p":100}
 
 [[<img class="section-image" title="Oka" src="images/oka_square.png"/>
 
-  {{Maou = Kumoko
-    THE MAOU IS ACTUALLY KUMOKO IS ACTUALLY THE MAOU IS ACTUALLY THE DEMON LORD!!!!!!11!!1!1!!11
-  }}
-
-  {{Parallel Rulers
-    You can claim opposing Ruler skills as long as you have different parallel wills that meet the criteria necessary.
-  }}
-
   {{Class Project
     This world is a class project D, a student in a type-Omega civilization.
   }}
 
-  {{Lv.100 Human Evolution
-    Humans evolve at level 100.
+  {{Human side is a myth
+    The human side doesn't actually exist. Its all in our heads.
+    <em><span style="font-size:90%">You </span><span style="font-size:75%">have </span>
+    <span style="font-size:60%">to </span><span style="font-size:45%">wake </span><span style="font-size:30%">up.</span></em>
+  }}
+
+  {{Innocent Hugo
+    Hugo did nothing wrong.
+  }}
+
+  {{Kumo/Made In Abyss shared universe
+    Ariel and Ozen look visually similar, and the Abyss is, in many ways, reminiscint of the Labyrinth. Perhaps Kumo Desu
+    just takes place earlier in their shared timeline?
   }}
 
   {{Saint Title is OP
@@ -83,21 +93,24 @@ $ parallax {"z":35,"p":100}
     without him, and Wakaba is just off doing her own thing in a cave.
   }}
 
-  {{Spyders
-    The human side of the story is shown through Shiro's spying spiders.
-  }}
-
   {{Kumoko's Trainer
     Kumoko was trained by the Demon Lord to be an incredibly strong monster so she can wreak havoc amongst the humans.
-  }}
-
-  {{Hyrince's Fetish
-    Since Hyrince is a clone of Gürie, he also has a thing for Goddesses.
   }}
 
   {{Dreaming Maiden
     The entire story is a dream of the great Yuri, Dreamer of Worlds, after she used her skill Dreaming Maiden.
   }}
+
+  {{Potimas's Spy
+    Anna, Shun's elven maid, was originally a spy sent by Potimas, who eventually betrayed him.
+  }}
+
+  {{Kumoko = Rihoko
+    Kumoko's identity prior to reincarnation was the girl who was called 'Rihoko'. She mentions how she was bullied, and
+    we know that Rihoko was bullied in the past. She also calls herself ugly, which fits with the meaning of the nickname, 
+    which was created to make fun of her appearence.
+  }}
+
 
 ]]
 
@@ -108,12 +121,12 @@ $ parallax {"z":35,"p":100}
     <p>This actually has a lot of supporting evidence, what with Shiro's scythe, and some of the things that Meido says to D.</p>
   }}
 
-  {{The System is a Godcradle
-    One of the goals of the System was to try to artifically create a God out of a creature that isn't usually able to become one.
+  {{Hyrince's Fetish
+    Since Hyrince is a clone of Gürie, he also has a thing for Goddesses.
   }}
 
-  {{Potimas's Spy
-    Anna, Shun's elven maid, was originally a spy sent by Potimas, who eventually betrayed him.
+  {{The System is a Godcradle
+    One of the goals of the System was to try to artifically create a God out of a creature that isn't usually able to become one.
   }}
 
   {{Kuro = Hugo
@@ -136,6 +149,14 @@ $ parallax {"z":35,"p":100}
 
 [[<img class="section-image" title="Potimas" src="images/potimas_square.png"/>
 
+  {{Parallel Rulers
+    You can claim opposing Ruler skills as long as you have different parallel wills that meet the criteria necessary.
+  }}
+
+  {{Spyders
+    The human side of the story is shown through Shiro's spying spiders.
+  }}
+
   {{Gürie's Kin
     Fei is actually a kin of Gürie, and so has a pretty solid chance of becoming a god.
   }}
@@ -154,12 +175,6 @@ $ parallax {"z":35,"p":100}
 
   {{Potimatrix
     The world is a simulation by the design of Potimas, who is himself inside a simulation of Wakaba's.
-  }}
-
-  {{Kumoko = Rihoko
-    Kumoko's identity prior to reincarnation was the girl who was called 'Rihoko'. She mentions how she was bullied, and
-    we know that Rihoko was bullied in the past. She also calls herself ugly, which fits with the meaning of the nickname, 
-    which was created to make fun of her appearence.
   }}
 
   {{Ancient Tech
