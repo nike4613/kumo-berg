@@ -161,6 +161,45 @@ $ parallax {"z":35,"p":100}
 
 [[<img class="section-image" title="Potimas" src="images/potimas_square.png"/>
 
+  {{300-IQ Oka-chan
+    Oka is the real mastermind behind the entire reincarnation. Anticipating that Kumoko would become a god, she
+    saved her in her previous life so that she would end up doing everything in her power to protect Oka, leaving Oka
+    the freedom to do literally anything.
+  }}
+
+  {{Gürie's Kin
+    Fei is actually a kin of Gürie, and so has a pretty solid chance of becoming a god.
+  }}
+  
+  {{Baldie is in the System
+    D added Baldie to the System to increase the entertainment value of the planet. She also gave Kumoko a hard-coded
+    Baldie fetish to ensure interesting interactions if they ever meet.
+  }}
+
+  {{The Spider couldn't protect the dungeon
+    Kumoko's birth, which we see, isn't actually her first. Each time she's reborn, her memory gets wiped, and her
+    XP growth increases, explaining why she is able to grow as fast as she does.
+  }}
+
+  {{Dimension Magic
+    Earth and the System are in different dimensions, and Shiraori and D are just able to easily jump between them.
+    This may be why the phone conversations with D had a lot of static.
+  }}
+
+  {{Potimatrix
+    The world is a simulation by the design of Potimas, who is himself inside a simulation of Wakaba's.
+  }}
+
+  {{Parallel Rulers
+    You can claim opposing Ruler skills as long as you have different parallel wills that meet the criteria necessary.
+  }}
+
+  {{61 Dustins
+    Each time Dustin 'reincarnates', he doesn't <em>actually</em> reincarnate, instead the System simply copies his memories
+    into a new person each time because of Perseverance. As such, there have been 61 Dustins in the history of this world, each
+    with distinct souls.
+  }}
+
   {{Gürie is a Classmate of the Reincarnations
     Gürie was either one of those reincarnated that were not accounted for by Oka, or was another student in the same grade.
   }}
@@ -169,35 +208,13 @@ $ parallax {"z":35,"p":100}
     One of the goals of the System was to try to artifically create a God out of a creature that isn't usually able to become one.
   }}
 
-  {{Parallel Rulers
-    You can claim opposing Ruler skills as long as you have different parallel wills that meet the criteria necessary.
-  }}
-
   {{Spyders
     The human side of the story is shown through Shiro's spying spiders.
-  }}
-
-  {{Gürie's Kin
-    Fei is actually a kin of Gürie, and so has a pretty solid chance of becoming a god.
-  }}
-
-  {{Potimatrix
-    The world is a simulation by the design of Potimas, who is himself inside a simulation of Wakaba's.
-  }}
-
-  {{Dustin Ooal Gown
-    Dustin isn't actually all that clever; he's just <em>very</em> good at bluffing his way though life.
   }}
 
 ]]
 
 [[<img class="section-image" title="Dustin" src="images/dustin_square.png"/>
-
-  {{61 Dustins
-    Each time Dustin 'reincarnates', he doesn't <em>actually</em> reincarnate, instead the System simply copies his memories
-    into a new person each time because of Perseverance. As such, there have been 61 Dustins in the history of this world, each
-    with distinct souls.
-  }}
 
   {{Merazofis = Foddway
     Merazofis is actually just the first Demon King and Vampire Progenitor Foddway.
@@ -242,6 +259,10 @@ $ parallax {"z":35,"p":100}
     The world was, just as he had thought, entirely Hugo's dream.
   }}
 
+  {{Dustin Ooal Gown
+    Dustin isn't actually all that clever; he's just <em>very</em> good at bluffing his way though life.
+  }}
+
 ]]
 
 [[<img class="section-image" title="Shiro" src="images/shiro_clean.png"/>
@@ -265,11 +286,6 @@ $ parallax {"z":35,"p":100}
 
   {{Spiders, the lot of them!
     All of the reincarnators were originally spiders, and the attack that killed them only hit a spider mother and her young.
-  }}
-
-  {{Dimension Magic
-    Earth and the System are in different dimensions, and Shiraori and D are just able to easily jump between them.
-    This may be why the phone conversations with D had a lot of static.
   }}
 
   {{Hiiro Conundrum
