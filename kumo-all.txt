@@ -7,10 +7,6 @@ $ parallax {"z":35,"p":100}
     D is the same creature that made Tanya's life miserable.
   }}
 
-  x{{Inception
-    <em>Unknown.</em>
-  }}
-
   {{Tsundere Prince
     Hugo loves Shun, but doesn't know how to talk to him.<br/>
     It's so cute! <code>&gt;_&lt;</code>
@@ -393,10 +389,6 @@ $ parallax {"z":35,"p":100}
   {{The God of Earth
     The entire story is written by D, under the pseudonym Okina Baba. This also implies that Meido would be using the pseudonym
     Tsukasa Kiryuu, since they seem to be fairly close friends.
-  }}
-
-  x{{Damn Score Dubs
-
   }}
 
   {{Mother's Suicide Plan
